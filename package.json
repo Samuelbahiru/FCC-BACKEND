@@ -1,6 +1,7 @@
 {
   "name": "fcc-learn-npm-package-json",
   "author": "samuel bahiru",
+  "description": "this is a project where i learn mern from FCC",
   "dependencies": {
     "express": "^4.14.0"
   },
