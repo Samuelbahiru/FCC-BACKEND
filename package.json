@@ -2,6 +2,11 @@
   "name": "fcc-learn-npm-package-json",
   "author": "samuel bahiru",
   "description": "this is a project where i learn mern from FCC",
+  "keywords": [
+    "samuel",
+    "freecodecamp",
+    "TEST"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
