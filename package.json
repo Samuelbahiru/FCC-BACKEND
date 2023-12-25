@@ -8,6 +8,7 @@
     "TEST"
   ],
   "license": "MIT",
+  "version": "1.0",
   "dependencies": {
     "express": "^4.14.0"
   },
